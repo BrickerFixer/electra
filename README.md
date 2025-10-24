@@ -8,6 +8,8 @@ Though, some of them were used in malicious ways by big tech companies:
 - Gigantic pages full of ever-executing content
 - Unnecessary client-sided API calls
 - Something that I forgot to mention
+
+
 Here, I'll take inspiration from Gemini network protocol, and will hang some personalization on it (CSS, bare minimum of JS), but will still give priority to the text content for great readability and low network bandwidth.
 
 Min, the base browser used for this experiment, is a fast, minimal browser that protects your privacy. It includes an interface designed to minimize distractions, and features such as:
