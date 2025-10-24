@@ -1,5 +1,3 @@
 # Security Policy
 
-## Reporting a Vulnerability
-
-The preferred way to report vulnerabilities is through Github ([here](https://github.com/minbrowser/min/security/advisories/new)). You can also email @palmerAL directly at 280953907a@zoho.com; however, I may be slower to respond there.
+The software is provided AS IS. Every bug, feature request and vulnerability that is found *in this browser* should NOT be reported to Min browser developers. Have some respect towards developers of Min browser.
